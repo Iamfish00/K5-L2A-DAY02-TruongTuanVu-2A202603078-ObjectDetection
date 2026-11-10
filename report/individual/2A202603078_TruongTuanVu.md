@@ -37,7 +37,7 @@ xe con quá nhiều ở ở mép ảnh trong `drive_002.jpg`
 | Recall | 0,7259  | |
 | F1 | 0,5596| |
 | mean_iou_of_matches |0,8332 | |
-| passed |yes | |
+| passed |false | |
 
 Dẫn tới `outputs/annotation_evaluation.json` trong repo. Nếu rework, ghi ảnh, lỗi đã kiểm, quyết định sửa/giữ và lý do. Không suy nguyên nhân chỉ từ FP/FN. Không có rework thì ghi rõ.
 
