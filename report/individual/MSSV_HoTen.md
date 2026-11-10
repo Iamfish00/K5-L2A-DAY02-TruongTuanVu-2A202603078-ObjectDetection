@@ -7,9 +7,9 @@
 - Họ tên: Trương Tuấn Vũ
 - MSSV: 2A202603078
 - Email: tvu562005@gmail.com
-- Lớp: 2A
-- Link repo bài làm:
-- Link Colab đã chạy:
+- Lớp: K5-L2A
+- Link repo bài làm: https://github.com/Iamfish00/K5-L2A-DAY02-TruongTuanVu-2A202603078-ObjectDetection
+- Link Colab đã chạy:https://colab.research.google.com/drive/1xXJzMYGrb459JKXrWOzmYGpIXg7_4cvT?usp=sharing
 
 ## 2. Schema và mini guideline
 
