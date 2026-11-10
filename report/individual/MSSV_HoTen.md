@@ -4,10 +4,10 @@
 
 ## 1. Thông tin học viên
 
-- Họ tên:
-- MSSV:
-- Email:
-- Lớp:
+- Họ tên: Trương Tuấn Vũ
+- MSSV: 2A202603078
+- Email: tvu562005@gmail.com
+- Lớp: 2A
 - Link repo bài làm:
 - Link Colab đã chạy:
 
